@@ -8,9 +8,10 @@ passlib[bcrypt]
 python-dotenv
 PyMuPDF
 openai
-pydantic>=2.0.0
+pydantic
 python-dateutil
 aiofiles
-langchain-groq>=0.0.1
-langchain-core>=0.1.0
-langchain-community>=0.0.10 
+langchain-groq
+langchain-core
+langchain-community
+pydantic[email]

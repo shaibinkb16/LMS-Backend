@@ -31,7 +31,7 @@ class Settings:
         "http://127.0.0.1:4173",
         "http://127.0.0.1:4040",
         "https://artlms.netlify.app",
-        "http://localhost:8000",
+        "https://3b1497bf074b.ngrok-free.app",
     ]
 
 settings = Settings() 
