@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What was the primary goal of migrating the Chargeback Processing System from Streamlit to a modern architecture?",
+        "options": [
+            "Improve scalability and maintainability",
+            "Reduce development time",
+            "Enhance UI customization",
+            "Integrate with external systems only"
+        ],
+        "answer": "Improve scalability and maintainability"
+    },
+    {
+        "question": "What was the main limitation of the Streamlit architecture in terms of scalability?",
+        "options": [
+            "Designed for single-user sessions",
+            "Lack of UI customization",
+            "Difficult to test or refactor",
+            "Not API-first"
+        ],
+        "answer": "Designed for single-user sessions"
+    },
+    {
+        "question": "What was the primary advantage of using Streamlit in the initial prototype?",
+        "options": [
+            "Extremely fast development",
+            "Easy debugging and deployment",
+            "Simple UI building for data scientists",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What was used to retain uploaded files, intermediate results, and user interactions between reruns of the app in the original Streamlit architecture?",
+        "options": [
+            "st.session_state",
+            "st.file_uploader",
+            "st.progress",
+            "st.metric"
+        ],
+        "answer": "st.session_state"
+    },
+    {
+        "question": "What technology was used for the frontend UI in the modern, decoupled architecture?",
+        "options": [
+            "FastAPI",
+            "React",
+            "Streamlit",
+            "TypeScript"
+        ],
+        "answer": "React"
+    }
+]

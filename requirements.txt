@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pymongo
+motor
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+PyMuPDF
+openai
+pydantic>=2.0.0
+python-dateutil
+aiofiles
+langchain-groq>=0.0.1
+langchain-core>=0.1.0
+langchain-community>=0.0.10 
